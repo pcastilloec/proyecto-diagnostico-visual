@@ -9,7 +9,7 @@
 - Reyes Cirro Rubén Guillermo
 - Pedro Antonio Castillo Cucián
 - Chasi Hernández Marina del Pilar
-- John [Apellido]
+- John Jeremy Ramos Espinoza
 
 ---
 
