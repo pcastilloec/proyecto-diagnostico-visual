@@ -44,4 +44,4 @@ Sistema de diagnóstico visual que clasifica imágenes de pasillos, escaleras y 
 
 ---
 
-## 🏗️ Estructura del Proyecto
+## Estructura del Proyecto
